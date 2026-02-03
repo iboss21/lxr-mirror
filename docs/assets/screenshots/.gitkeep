@@ -1,0 +1,17 @@
+# Screenshots Directory
+
+This directory is for storing promotional and documentation screenshots for LXR-Mirror.
+
+## Required Screenshots
+
+See ../screenshots.md for a complete list of required screenshots and guidelines.
+
+## Naming Convention
+
+Format: [number]_[description].png
+
+Examples:
+- 01_command_usage.png
+- 02_male_close_up.png
+- 03_female_close_up.png
+- thumbnail.png
